@@ -44,7 +44,7 @@ To do so: profiles -> open profiles ->  select the current profile -> edit profi
 ## Oh-my-zsh install + plugins + theme
 
 Run the following command:
-`sh setup.sh`
+`./setup.sh`
 
 It will:
 - Replace the default config by the one in this repo
