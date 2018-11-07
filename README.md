@@ -27,7 +27,6 @@ To render the agnoster theme correctly powerline fonts are required
 
 ```
 git clone https://github.com/powerline/fonts.git --depth=1
-
 ```
 
 ### Iterm
