@@ -57,4 +57,6 @@ It will:
 ## Expected result:
 
 The final result should look like this:
+
+
 ![alt text](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)
